@@ -1,0 +1,29 @@
+{
+  "name": "btc-wallet",
+  "version": "1.0.0",
+  "description": "Btc Wallet",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yceman/btc-wallet.git"
+  },
+  "keywords": [
+    "Wallet",
+    "Btc",
+    "Javascript"
+  ],
+  "author": "Marcos Morais",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yceman/btc-wallet/issues"
+  },
+  "homepage": "https://github.com/yceman/btc-wallet#readme",
+  "dependencies": {
+    "bip32": "^2.0.6",
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "^6.1.7"
+  }
+}
